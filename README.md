@@ -12,3 +12,5 @@ Connect hardware: USB6008 DAQ Board (National Instruments, Inc.).
 
 ## Instructions for use 
 run Matlab script: Ballistic.m
+
+10.5281/zenodo.11203521
